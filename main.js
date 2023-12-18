@@ -9,5 +9,13 @@ document.addEventListener("DOMContentLoaded", ()=>{
     document.getElementById("gomb").addEventListener("click", ()=>{
         console.log("teszt");
         addNumber();
-    })
+    });
+    document.getElementById("gomb").addEventListener("click", ()=>{
+        console.log("teszt");
+        addNumber();
+    });
+    document.getElementById("gomb").addEventListener("click", ()=>{
+        console.log("teszt");
+        addNumber();
+    });
 });
